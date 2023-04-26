@@ -1,3 +1,2 @@
 HELLO WORLD
-WELCOME TO DEVOPS
-file modified
+HOW ARE YOU ?
